@@ -1,0 +1,12 @@
+com\example\vflash\mapper\UserMapperImpl.class
+com\example\vflash\FlashApplication.class
+com\example\vflash\model\column.class
+com\example\vflash\service\Userservice.class
+com\example\vflash\mapper\UserMapper.class
+com\example\vflash\config\SecurityConfig.class
+com\example\vflash\repository\UserRepository.class
+com\example\vflash\model\User.class
+com\example\vflash\dto\LoginDTO.class
+com\example\vflash\dto\UserDTO.class
+com\example\vflash\controller\UserController.class
+com\example\vflash\dto\ResponseDTO.class

@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.example.vflash.Main",
+            "projectName": "vflash"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-FlashApplication<vflash>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.vflash.FlashApplication",
+            "projectName": "vflash",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
